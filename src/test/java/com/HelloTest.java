@@ -44,7 +44,7 @@ public class HelloTest {
 	@Test
 	public void testSum3() {
 		assertEquals(33, hello.sum(21,12));
-		;
+		
 	}
 
 }
